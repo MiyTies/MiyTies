@@ -9,3 +9,8 @@ Whats up! I'm Emiya Rehulina, Welcome to my GitHub profile! I'm passionate about
 - 📫 Reach me at : emiyagtg7@gmail.com
 - ⚡ Fun fact: I'm passionate about building robots!
 
+- Languages and Tools
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
+
