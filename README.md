@@ -4,6 +4,8 @@
 
 Whats up! I'm Emiya Rehulina, Welcome to my GitHub profile! I'm passionate about Robotics and AI, constantly exploring innovative solutions in these fields. Let's build the future together!
 
+## 👨‍💻 About Me 
+
 - 🌱 Currently studying at Batam State Polytechnic 
 - 👯 I’m looking to collaborate on AI, Robotics, and tech-related projects
 - 🤔 I’m looking for help with improving my skills in Python and C++ 
