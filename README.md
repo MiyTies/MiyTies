@@ -12,7 +12,7 @@ Whats up! I'm Emiya Rehulina, Welcome to my GitHub profile! I'm passionate about
 - 💬 Ask me about Python, C++, and robotics projects
 - 📫 Reach me at : emiyagtg7@gmail.com
 
-## 🛠 Languages and Tools
+## 🛠️ Languages and Tools
 
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
