@@ -33,16 +33,8 @@ Whats up! I'm Emiya Rehulina, Welcome to my GitHub profile! I'm passionate about
 </p
 
 
-    ## 📫 Get in Touch:
+    ## 📬 Get in Touch
 
-## 📫 Get in Touch:
-
-<p align="left">
-    <a href="[https://www.linkedin.com/in/nama-kamu](https://www.linkedin.com/in/emiyaginting/)" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="60" width="70" />
-    </a>
-    <a href="mailto:emiyagtg7@gmail.com" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="60" width="70" />
-    </a>
-</p>
+**LinkedIn**: [Emiya Rehulina]((https://www.linkedin.com/in/emiyaginting/))  
+**Email**: [Yudhiskeren5@gmail.com](mailto:Yudhiskeren5@gmail.com)
 
