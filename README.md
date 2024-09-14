@@ -1,6 +1,5 @@
 ## Hi there, I'm Emiya Rehulina  👋
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MiyTies&color=blue&style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=MiyTies&style=flat-square&color=brightgreen)
 
 Whats up! I'm Emiya Rehulina, Welcome to my GitHub profile! I'm passionate about Robotics and AI, constantly exploring innovative solutions in these fields. Let's build the future together!
