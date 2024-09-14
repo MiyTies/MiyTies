@@ -1,5 +1,8 @@
 ## Hi there, I'm Emiya Rehulina  👋
 
+https://visitor-badge.laobi.icu/badge?page_id=MiyTies&color=blue&style=flat-square
+https://komarev.com/ghpvc/?username=MiyTies&style=flat-square&color=brightgreen
+
 Whats up! I'm Emiya Rehulina, Welcome to my GitHub profile! I'm passionate about Robotics and AI, constantly exploring innovative solutions in these fields. Let's build the future together!
 
 - 🌱 Currently studying at Batam State Polytechnic 
@@ -34,6 +37,10 @@ Whats up! I'm Emiya Rehulina, Welcome to my GitHub profile! I'm passionate about
 
 ## 📬 Get in Touch
 
-- **LinkedIn**: [Emiya Rehulina]([https://www.linkedin.com/in/your-linkedin-url](https://www.linkedin.com/in/emiyaginting/))
-- **Email**: [emiyagtg7@gmail.com](mailto:emiyagtg7@gmail.com)
+- LinkedIn: [Emiya Rehulina](https://www.linkedin.com/in/emiyaginting/)
+- Email: [emiyagtg7@gmail.com](mailto:emiyagtg7@gmail.com)
+
+---
+
+Thanks for visiting my profile! Looking forward to connecting and collaborating with you 😊
 
