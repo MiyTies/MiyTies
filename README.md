@@ -37,7 +37,7 @@ Whats up! I'm Emiya Rehulina, Welcome to my GitHub profile! I'm passionate about
 </p
 
 
-## 📬 Get in Touch
+## 📬 Get in Touch 
 
 - LinkedIn: [Emiya Rehulina](https://www.linkedin.com/in/emiyaginting/)
 - Email: [emiyagtg7@gmail.com](mailto:emiyagtg7@gmail.com)
