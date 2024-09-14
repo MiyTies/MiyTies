@@ -11,6 +11,7 @@ Whats up! I'm Emiya Rehulina, Welcome to my GitHub profile! I'm passionate about
 - 🤔 I’m looking for help with improving my skills in Python and C++ 
 - 💬 Ask me about Python, C++, and robotics projects
 - 📫 Reach me at : emiyagtg7@gmail.com
+  
 
 ## 🛠️ Languages and Tools
 
@@ -34,6 +35,7 @@ Whats up! I'm Emiya Rehulina, Welcome to my GitHub profile! I'm passionate about
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
     </a>
 </p
+
 
 ## 📬 Get in Touch
 
